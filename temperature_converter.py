@@ -7,7 +7,11 @@
 
 
 
+print("Welcome to Temperature Converter!\n")
+
 # Ask the user to input a temperature.
+input('Enter temperature: \n')
+
 # Ask the user to select the conversion type: from Celsius to Fahrenheit or from Fahrenheit to Celsius.
 # Perform the appropriate conversion
 # Display result
