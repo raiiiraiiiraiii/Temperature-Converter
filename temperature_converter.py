@@ -5,4 +5,9 @@
             #2.	Ask the user to select the conversion type: from Celsius to Fahrenheit or from Fahrenheit to Celsius.
             #3.	Perform the appropriate conversion and print the result.
 
-            
+
+
+# Ask the user to input a temperature.
+# Ask the user to select the conversion type: from Celsius to Fahrenheit or from Fahrenheit to Celsius.
+# Perform the appropriate conversion
+# Display result
